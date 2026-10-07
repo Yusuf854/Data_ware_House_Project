@@ -108,8 +108,6 @@ data-warehouse-project/
 ## ☕ Stay Connected
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
-
-
 https://www.linkedin.com/in/mohammed-yusuf-shaikh-734278384/
 
 
@@ -119,7 +117,9 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm Muhammad Yusuf Shaikh, an aspiring Data Analyst passionate about transforming raw data into meaningful insights and actionable business decisions.
+My goal is to grow as a Data Analyst and eventually move towards Data Engineering, while sharing what I learn along the way.
+🚀 Learn. Analyze. Build. Grow.
 
 Let's stay in touch! Feel free to connect with me on the following platform:
 
