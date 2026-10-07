@@ -7,7 +7,8 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-<img width="2481" height="2338" alt="Data Architecture drawio" src="https://github.com/user-attachments/assets/de12b95a-4044-449e-bfa5-b635c9d5fbe7" />
+<img width="1551" height="1061" alt="Data Architecture drawio" src="https://github.com/user-attachments/assets/826f68b7-5cc2-41f5-bf87-3a7ec7788b13" />
+
 
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
@@ -111,7 +112,7 @@ https://www.linkedin.com/in/mohammed-yusuf-shaikh-734278384/
 
 ## 🛡️ License
 
-This project is licensed under the LICENSE. You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the https://github.com/Yusuf854/Data_ware_House_Project/blob/71535a1d4399ad843da6de887e6a7c3121d93bd9/LICENSE. You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
 
