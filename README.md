@@ -111,7 +111,7 @@ https://www.linkedin.com/in/mohammed-yusuf-shaikh-734278384/
 
 ## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the LICENSE. You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
 
